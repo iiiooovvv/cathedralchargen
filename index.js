@@ -80,7 +80,7 @@ const role = {
     Chronicler: "memory, identification, archives",
     Heavy: "destruction, persistence, strength",
     Merc: "guns, ambush, gambling",
-    Aassssin: "surprise, patients, accuracy",
+    Aassassin: "surprise, patients, accuracy",
     Oracle: "statistics, narrative, destiny",
     Ranger: "tracking, travel, hiding",
     Monk: "fortitude, martial arts, drugs",
